@@ -1,2 +1,2 @@
-# Java1
+# Python1
 ![srcreenshot](screenshot.png)
